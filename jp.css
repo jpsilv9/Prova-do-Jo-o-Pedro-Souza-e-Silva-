@@ -4,20 +4,13 @@ h1 {
     text-align: center;
 }
 p {
-    text-align: center;
+    text-align: left;
 }
 strong {
     font-size: 30px;
 }
 body {
     background-color: azure;
-}
-.brilho{
-    background-color: blue;
-    font-style: italic;
-}
-.flamengo{
-    background-color: blue;
 }
 .Ricardo{
     display: inline-block;
@@ -33,4 +26,20 @@ body {
     display: inline-block;
     padding: 5%;
     margin-right: 10%;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: 500;
+    font-size: 100%;
+    text-decoration: none;
+}
+.imagem2{
+    text-align: center;
+}
+.imagem1{
+    width: 25%;
+}
+h2{
+    background-color: blue;
 }
