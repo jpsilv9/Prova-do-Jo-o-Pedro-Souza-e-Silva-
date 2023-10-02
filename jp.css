@@ -2,6 +2,7 @@ body
 h1 {
     background-color: blue;
     text-align: center;
+    color: goldenrod;
 }
 p {
     text-align: left;
@@ -14,18 +15,18 @@ body {
 }
 .Ricardo{
     display: inline-block;
-    padding: 5%;
-    margin-right: 10%;
+    padding: 2%;
+    margin-right: 5%;
 }
 .bruno{
     display: inline-block;
-    padding: 5%;
-    margin-right: 10%;
+    padding: 2%;
+    margin-right: 5%;
 }
 .flavio{
     display: inline-block;
-    padding: 5%;
-    margin-right: 10%;
+    padding: 2%;
+    margin-right: 5%;
 }
 nav a{
     text-transform: uppercase;
@@ -42,4 +43,9 @@ nav a{
 }
 h2{
     background-color: blue;
+    color: goldenrod;
+}
+h3{
+    background-color: blue;
+    color: goldenrod;
 }
