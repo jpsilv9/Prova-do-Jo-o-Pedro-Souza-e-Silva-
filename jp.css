@@ -13,21 +13,6 @@ strong {
 body {
     background-color: azure;
 }
-.Ricardo{
-    display: inline-block;
-    padding: 2%;
-    margin-right: 5%;
-}
-.bruno{
-    display: inline-block;
-    padding: 2%;
-    margin-right: 5%;
-}
-.flavio{
-    display: inline-block;
-    padding: 2%;
-    margin-right: 5%;
-}
 nav a{
     text-transform: uppercase;
     color: black;
@@ -48,4 +33,12 @@ h2{
 h3{
     background-color: blue;
     color: goldenrod;
+}
+.centralizar{
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+
 }
